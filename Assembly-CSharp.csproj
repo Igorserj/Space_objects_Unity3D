@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C1BF62FA-C5C9-41A2-2CDF-B0DCBC002D60}</ProjectGuid>
+    <ProjectGuid>{1278A90C-E781-3577-A5FE-0F63956EE94D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,9 +58,9 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scenes\Objects\system.cs" />
-    <Compile Include="Assets\Scenes\Objects\lines.cs" />
-    <Compile Include="Assets\Scenes\Objects\buttons.cs" />
+    <Compile Include="Assets\Scenes\Objects\Lines.cs" />
+    <Compile Include="Assets\Scenes\Objects\Main.cs" />
+    <Compile Include="Assets\Scenes\Objects\Buttons.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

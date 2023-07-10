@@ -5,7 +5,7 @@ using UnityEngine.Rendering.PostProcessing;
 using UnityEngine.UI;
 using UnityEngine.UIElements;
 
-public class system : MonoBehaviour
+public class Main : MonoBehaviour
 {
 public GameObject solar;
 public GameObject spaceObject;

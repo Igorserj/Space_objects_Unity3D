@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Rendering.PostProcessing;
 using UnityEngine.UI;
 
-public class buttons : MonoBehaviour
+public class Buttons : MonoBehaviour
 {
    public Camera MainCamera;
    public Camera Camera2;

@@ -3,7 +3,7 @@ using System.Collections.Concurrent;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class lines : MonoBehaviour
+public class Lines : MonoBehaviour
 {
     public LineRenderer circle;
     public GameObject solar;
